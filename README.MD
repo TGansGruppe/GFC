@@ -16,7 +16,7 @@ however permanent associates are:
   - TEIWAZ
   - Sinneslöschen
   - Hexagon Software
-  - 
+
 Copyright (c) 2021-22, GansGruppe & Associates
   
 Permission to use, copy, modify, and/or distribute this software for any
